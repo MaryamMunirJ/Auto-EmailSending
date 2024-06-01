@@ -10,11 +10,11 @@ In this project, the Google Form submission process will be automated with Selen
 
 ## Setup Instructions
 1. Clone the repository:
-   bash
+   ```bash
    git clone https://github.com/MaryamMunirJ/Auto-EmailSending.git
    cd Auto-EmailSending
 2. Install dependecies and setup env varaiables:
-    bash
+    ```bash
     pip install -r requirements.txt
     export username=email_username@domain.com
     export password=password
